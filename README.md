@@ -31,3 +31,7 @@ Make sure the virtual environment is activated and run from the project root:
 source .venv/bin/activate
 python -m examples.agent-lecture.simple_agent
 ```
+
+## Documentation
+
+- [Project guide](docs/project-guide.md)
